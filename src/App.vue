@@ -19,7 +19,6 @@
   import {server_url} from '../config/env.var.js'
   import { interval } from '../config/env.var.js'
   import { stored_query_forecast } from '../config/env.var.js'
-  //const STORED_QUERY_FORECAST = "fmi::forecast::hirlam::surface::point::multipointcoverage";
 
   export default {
     name: 'app',

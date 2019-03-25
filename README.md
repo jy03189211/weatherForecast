@@ -10,9 +10,19 @@ npm install
 npm run serve
 ```
 
+### Details
+```
+this task were implemented with Vue.js, HTTP server is integrated
+variables such as polling intervals and api-key can be set from the ./config/env.var.js file
+
+```
+
 ### Things not done
 ```
-Unit test(due to the config with jest and bable)
+Due to the config issue with jest and bable and time limit
+
+Unit test
 
 City input
+
 ```
